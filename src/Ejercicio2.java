@@ -12,5 +12,6 @@ public class Ejercicio2 {
         System.out.println("El área de la Circunferencia es: " + area);
 
         entrada.close();
+
     }
 }
